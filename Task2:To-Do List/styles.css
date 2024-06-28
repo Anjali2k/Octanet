@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url(https://d6fiz9tmzg8gn.cloudfront.net/wp-content/uploads/2023/06/Blog5-10.jpg);
+    background-size:cover;
+    color:whitesmoke;
+}
+
+header, footer {
+    background-color: #333;
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+    background-image:url(https://www.soracom.io/wp-content/uploads/fly-images/18345/AdobeStock_181088041-scaled-768x432-c.jpeg) ;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+section {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.example {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+footer {
+    position:relative;
+    bottom: 0;
+    width: 100%;
+
+}
